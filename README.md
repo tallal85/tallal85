@@ -1,12 +1,14 @@
 # Hi, I'm Tallal
 
-I'm a **Data Engineer & BI Developer** based in **Los Angeles, CA**, passionate about **SQL, data warehousing, Databricks, Python, and analytics**.  
-This GitHub is where I share **practical projects**, **learning resources**, and **real-world examples** for anyone interested in **data engineering** and **business intelligence**.
+I'm a **Data Engineer & BI Developer** based in **Los Angeles, CA**, passionate about **SQL, data warehousing, Databricks, Python, cloud data platforms, and analytics**.  
+I’m currently expanding my expertise into **Artificial Intelligence and Machine Learning**, exploring how modern data platforms support **AI-driven analytics, predictive models, and intelligent data systems**.  
+This GitHub is where I share **practical projects**, **learning resources**, and **real-world examples** for anyone interested in **data engineering**, **machine learning**, and **business intelligence**.
 
 ---
 
 ## Education
-- **Master of Science in Big Data Analytics** (in progress) – San Diego State University  
+- **Doctor of Engineering (D.Eng.) in Artificial Intelligence & Machine Learning** (in progress) – George Washington University  
+- **Master of Science in Big Data Analytics** – San Diego State University  
 - **Bachelor of Science in Computer Information Systems (Business Intelligence emphasis)** – California State Polytechnic University, Pomona (Cal Poly Pomona)  
 
 ---
@@ -22,16 +24,16 @@ Let’s connect and share knowledge:
 ## Featured Projects
 
 ### [**SQL Scripts Collection**](https://github.com/tallal85/sql-scripts-collection)
-A collection of **27 SQL scripts** ranging from basic to advanced topics:
+A collection of **SQL scripts** ranging from basic to advanced database concepts:
 - Querying, filtering, and aggregations.
 - Window functions, subqueries, and CTEs.
-- Indexing, partitioning, and performance optimization tips.
-
+- Indexing strategies and query performance optimization.
+- Practical examples used in **data engineering and analytics workflows**.
 
 ---
 
 ## Skills & Tools
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue?logo=mssql)
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue?logo=microsoftsqlserver)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Experienced-blue?logo=postgresql)
 ![Databricks](https://img.shields.io/badge/Databricks-Data_Engineering-orange?logo=databricks)
 ![Python](https://img.shields.io/badge/Python-Data_Processing-green?logo=python)
@@ -42,12 +44,5 @@ A collection of **27 SQL scripts** ranging from basic to advanced topics:
 
 ---
 
-## Coming Soon
-- **Data Warehouse Mini Projects** (SCD Type 2, incremental ETL).
-- **Power BI Dashboards** (interactive sales and financial reports).
-- **End-to-End Data Engineering Case Studies**.
-
----
-
 ## Support & Collaboration
-If you find these resources useful, feel free to **star the repos**, connect on **LinkedIn**, or reach out for collaboration opportunities.
+If you find these resources useful, feel free to **star the repos**, connect on **LinkedIn**, or reach out for **collaboration opportunities in data engineering, analytics, or BI projects**.
